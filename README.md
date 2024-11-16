@@ -16,6 +16,13 @@ Ushbu **FastAPI** ilovasi foydalanuvchilarni boshqarish uchun mo‘ljallangan. I
 
 ## 🛠 O'rnatish
 
-1. Repozitoriyani klonlash:
+1. Zarur kutubxonalarni o'rnatish:
    ```bash
+   pip install fastapi uvicorn pydantic
+   ```
+2. ▶️ Ilovani Ishga Tushirish
+```bash
+uvicorn main:app --reload
+```
+Odatiy holda server http://127.0.0.1:8000/docs manzilida ishga tushadi.
 
