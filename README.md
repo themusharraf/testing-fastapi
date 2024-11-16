@@ -89,9 +89,9 @@ def test_get_user():
         get_user(5)
 ```
 ## 📚 Qo‘shimcha Ma'lumotlar
-FastAPI hujjatlari: https://fastapi.tiangolo.com/
-Pytest hujjatlari: https://docs.pytest.org/
-Pydantic hujjatlari: https://pydantic-docs.helpmanual.io/
+- FastAPI hujjatlari: https://fastapi.tiangolo.com/
+- Pytest hujjatlari: https://docs.pytest.org/
+- Pydantic hujjatlari: https://pydantic-docs.helpmanual.io/
 
 ## 🌟 Hissa Qo‘shish
 Loyihani fork qilib, yaxshilanishlar kiriting va pull request yuboring. Sizning hissangiz qadrlanadi! 😊
