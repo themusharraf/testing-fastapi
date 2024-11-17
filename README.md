@@ -29,7 +29,7 @@ Ushbu loyiha **FastAPI** asosida foydalanuvchilarni boshqarish API uchun mo'ljal
    Testlarni ishga tushirish uchun quyidagilarni bajaring:
    Unit va Integration testlarni bajarish:
    ```bash
-      pytest
+   pytest
    ```
 Test natijalarini ko'rib chiqing. Hammasi muvaffaqiyatli o'tishi kerak.
 
