@@ -23,14 +23,13 @@ Ushbu loyiha **FastAPI** asosida foydalanuvchilarni boshqarish API uchun mo'ljal
    ```bash
    uvicorn main:app --reload
    ```
-Odatiy holda server http://127.0.0.1:8000/docs manzilida ishga tushadi.
+   Odatiy holda server http://127.0.0.1:8000/docs manzilida ishga tushadi.
 
 3. 🔧 Testlarni Ishga Tushirish
-
-Testlarni ishga tushirish uchun quyidagilarni bajaring:
-Unit va Integration testlarni bajarish:
+   Testlarni ishga tushirish uchun quyidagilarni bajaring:
+   Unit va Integration testlarni bajarish:
    ```bash
-   pytest
+      pytest
    ```
 Test natijalarini ko'rib chiqing. Hammasi muvaffaqiyatli o'tishi kerak.
 
